@@ -1,0 +1,11 @@
+{
+  "name": "desktop-clock",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "dependencies": {
+      "electron": "^15.0.0"
+  }
+}
